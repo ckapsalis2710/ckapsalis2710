@@ -5,10 +5,9 @@
 -----------------------------
 
 Welcome to my GitHub profile! I'm a passionate software developer for almost 10 years in numerous software projects. Back-end development in Java, Lua and PHP. Front-end development in Javascript. Eager to learn new languages, technologies and undertake interesting projects.
-👋 Hello, I'm Christos Kapsalis
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christos-kapsalis-lin/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xrikapsalis@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xrikapsalis@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ckapsalis2710.github.io/portfolio/)
 
 ---
@@ -86,8 +85,7 @@ Welcome to my GitHub profile! I'm a passionate software developer for almost 10 
 
 ## 🌟 Featured Projects
 
-### Face Recognition App
-[Face Recognition Brain App](http://face-recognition-brain-lldi.onrender.com/)
+### [Face Recognition Brain App](http://face-recognition-brain-lldi.onrender.com/)
 
 Last project produced while attending the first course of the Full-Stack Software Developer career path of Zero To Mastery Academy. 
 
