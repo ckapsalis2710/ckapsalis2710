@@ -1,22 +1,11 @@
-Hi 👋 My name is Christos Kapsalis
+👋 Hello, I'm Christos Kapsalis
 ==================================
 
-Full-Stack Software Developer
+## 🚀 Full Stack Software Developer | Software Engineer
 -----------------------------
 
-Full-stack software developer for almost 10 years in numerous software projects. Back-end development in Java, Lua and PHP. Front-end development in Javascript. Eager to learn new languages, technologies and undertake interesting projects.
-
-* 🌍  I'm based in Athens, Greece
-* ✉️  You can contact me at [xrikaspalis@gmail.com](mailto:xrikaspalis@gmail.com)
-* 🚀  I'm currently working on [Face Recognition Brain App](http://face-recognition-brain-lldi.onrender.com/)
-* 🧠  I'm learning REACT, NodeJS with ExpressJS, PostgreSQL by building a full-stack app and using a Machine Learning API.
-* 🤝  I'm open to collaborating on interesting projects
-
-### Skills# 👋 Hello, I'm Christos Kapsalis
-
-## 🚀 Full Stack Software Developer | Software Engineer
-
-Welcome to my GitHub profile! I'm a passionate software developer with expertise in web development, backend and frontend systems, and DevOps practices. I love building scalable applications and exploring new technologies.
+Welcome to my GitHub profile! I'm a passionate software developer for almost 10 years in numerous software projects. Back-end development in Java, Lua and PHP. Front-end development in Javascript. Eager to learn new languages, technologies and undertake interesting projects.
+👋 Hello, I'm Christos Kapsalis
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christos-kapsalis-lin/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xrikapsalis@example.com)
