@@ -4,7 +4,7 @@
 ## 🚀 Full Stack Software Developer | Software Engineer
 -----------------------------
 
-Welcome to my GitHub profile! I'm a passionate software developer for almost 10 years in numerous software projects. Back-end development in Java, Lua and PHP. Front-end development in Javascript. Eager to learn new languages, technologies and undertake interesting projects.
+Welcome to my GitHub profile! I'm a passionate software developer for almost 10 years in numerous software projects. Front-end development in Javascript, React, CSS, Bootstrap and HTML. Back-end development in Java, Lua and PHP. Eager to learn new languages, technologies and undertake interesting projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christos-kapsalis-lin/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xrikapsalis@gmail.com)
