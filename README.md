@@ -63,6 +63,7 @@ Welcome to my GitHub profile! I'm a passionate software developer for almost 8+ 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![PHPStorm](https://img.shields.io/badge/PHPStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
 ![CodeCharge Studio](https://img.shields.io/badge/CodeCharge_Studio-512BD4?style=for-the-badge&logo=code&logoColor=white)
 
 #### Database Tools
