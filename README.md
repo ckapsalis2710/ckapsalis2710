@@ -55,6 +55,7 @@ Welcome to my GitHub profile! I'm a passionate software developer for almost 8+ 
 ### Testing
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Unit Testing](https://img.shields.io/badge/Unit_Testing-3776AB?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-00B0D8?style=for-the-badge&logo=robot-framework&logoColor=white)
 
 ### Development Tools
