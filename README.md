@@ -54,6 +54,8 @@ Welcome to my GitHub profile! I'm a passionate software developer for almost 8+ 
 ![SVN](https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white)
 
 ### Data Formats & APIs
+![REST API](https://img.shields.io/badge/REST_API-3498db?style=for-the-badge&logo=rest&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-3498db?style=for-the-badge&logo=websocket&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-0C54C2?style=for-the-badge&logo=xml&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![AJAX](https://img.shields.io/badge/AJAX-0769AD?style=for-the-badge&logo=javascript&logoColor=white)
